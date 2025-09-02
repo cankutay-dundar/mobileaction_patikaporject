@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "mobileaction_patikaporject",
+			"path": "../../../../../../../../patikagithub/mobileaction_patikaporject"
+		},
+		{
+			"name": "src",
+			"path": "../../../../../.."
+		},
+		{
+			"name": "target",
+			"path": "../../../../../../../target"
+		}
+	],
+	"settings": {}
+}
